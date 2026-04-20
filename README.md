@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Seifudin Hassan<br><br>🚀 Full-Stack Developer | 💊 Pharmacy Systems Builder | ☁️ Aspiring Cloud Security Engineer<br><br>I'm a developer focused on building and securing real-world systems that solve practical problems.
+👋 Hi, I'm Seifudin Hassan<br><br>🚀 Full-Stack Developer | Systems Builder | ☁️ Aspiring Cloud Security Engineer<br><br>I'm a developer focused on building and securing real-world systems that solve practical problems.
 
 
 ## 🌐 Socials:
